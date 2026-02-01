@@ -1,4 +1,4 @@
-# cmd://powershell.exe -NoProfile -ExecutionPolicy Bypass -File "C:\Users\arsha\YandexDisk\PO\script\posh\GetChromeProfile.ps1" -URL "{BASE}"
+# cmd://powershell.exe -NoProfile -ExecutionPolicy Bypass -File "C:\usr\GetChromeProfile.ps1" -URL "{BASE}"
 Param(
     [string]$URL
 )
